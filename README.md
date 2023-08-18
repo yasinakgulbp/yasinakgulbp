@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yasin.</h1>
 <h3 align="center">A passionate Game developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasinakgulbp" alt="yasinakgulbp" /></a> </p>
-
 - 🔭 I’m currently working on [Guard The Train](https://github.com/yasinakgulbp/GuardTheTrain)
 
 - 📫 How to reach me **yasinakgulbp@gmail.com**
