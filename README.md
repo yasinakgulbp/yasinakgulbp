@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yasinakgulbp@gmail.com**
 
-- 📫 My Portfolio **https://l24.im/fm8**
+- 📫 [My Portfolio](https://l24.im/fm8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
