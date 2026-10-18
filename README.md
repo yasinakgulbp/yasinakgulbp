@@ -1,33 +1,30 @@
+# Yasin Akgül
 
+**Mobile & Game Developer · Unity / C# · React Native / TypeScript**
 
-<h1 align="center">Hi 👋, I'm Yasin.</h1>
-<h3 align="center">A passionate Game developer</h3>
+I build games and Android applications, with a focus on gameplay systems, interaction, and practical product development. My work spans procedural puzzles, game AI, touch-first web prototypes, and a multilingual reading app.
 
-- 🔭 I’m currently working on [Warriors Of Time](https://github.com/yasinakgulbp/WarriorsOfTime)
+[LinkedIn](https://www.linkedin.com/in/yasinakgul) · [BP96 STUDIO](https://yasinakgulbp.github.io/) · [Email](mailto:yasinakgulbp@gmail.com)
 
-- 📫 How to reach me **yasinakgulbp@gmail.com**
+## Selected work
 
-- 📫 You can also view [My Portfolio](https://drive.google.com/file/d/1zSMAjaN6_5sxXI3U9CZalMOSzH5QMygI/view)
+| Project | What to explore |
+| --- | --- |
+| **[Tap-and-Fly](https://github.com/yasinakgulbp/Tap-and-Fly)** · Unity / C# | A 3D block-removal puzzle. A reverse-peeling generator assigns escape directions; raycasts validate moves, and level settings control grid size and time. [Generator →](https://github.com/yasinakgulbp/Tap-and-Fly/blob/main/Assets/Scripts/MazeGenerator.cs) |
+| **[Cosmic Conquest](https://github.com/yasinakgulbp/u-27)** · Unity / C# · Team project | A survival-action bootcamp project. My documented role: **Product Owner & Developer**. Explore the gameplay scripts, sprint decisions, and team delivery notes. |
+| **[Sock & Roll](https://github.com/yasinakgulbp/sock-and-roll)** · JavaScript / Canvas | A playable matching prototype with a constraint-based fabric approximation and 30 levels. Sleeping physics, cached artwork, and conditional redraws reduce unnecessary work on mobile browsers. |
+| **[Animal AI System](https://github.com/yasinakgulbp/AnimalAISystem)** · Unity / C# | A focused predator–prey prototype using NavMesh navigation, shared behavior states, detection, pursuit, and escape. [Core behavior →](https://github.com/yasinakgulbp/AnimalAISystem/blob/main/Assets/Animal.cs) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yasinakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-akgül-bp" height="30" width="40" /></a>
-<a href="https://instagram.com/yasinakgull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasinakgull" height="30" width="40" /></a>
-</p> 
+## Currently building: Readstride
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
- </p>         
+A React Native Android app for reading practice, with seven interface languages, a reading library, local progress storage, and consent-aware advertising and purchase integrations. **The current build is in Google Play internal testing.**
+
+[Engineering notes](docs/readstride.md) · [App information & privacy](https://yasinakgulbp.github.io/)
+
+## Technical focus
+
+- **Games:** Unity, C#, gameplay logic, procedural generation, navigation, and UI.
+- **Mobile:** React Native, TypeScript, Android release builds, localization, and persistent state.
+- **Web:** JavaScript, HTML Canvas, React, and interactive prototypes.
+
+The repositories above include prototypes and a collaborative project; each overview explains its scope and how to explore it.
