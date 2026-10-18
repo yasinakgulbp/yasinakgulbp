@@ -2,6 +2,8 @@
 
 **Mobile & Game Developer · Unity / C# · React Native / TypeScript**
 
+[![Unity](https://img.shields.io/badge/Unity-22272e?style=flat&logo=unity&logoColor=white)](https://github.com/yasinakgulbp/Tap-and-Fly) [![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat)](https://github.com/yasinakgulbp/AnimalAISystem) [![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](docs/readstride.md) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](docs/readstride.md)
+
 I build games and Android applications, with a focus on gameplay systems, interaction, and practical product development. My work spans procedural puzzles, game AI, touch-first web prototypes, and a multilingual reading app.
 
 [LinkedIn](https://www.linkedin.com/in/yasinakgul) · [BP96 STUDIO](https://yasinakgulbp.github.io/) · [Email](mailto:yasinakgulbp@gmail.com)
